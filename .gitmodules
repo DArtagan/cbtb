@@ -1,0 +1,3 @@
+[submodule "web/app/themes/cbtb"]
+	path = web/app/themes/cbtb
+	url = git@github.com:DArtagan/cbtb-theme.git
